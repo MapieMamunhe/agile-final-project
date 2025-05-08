@@ -1,15 +1,6 @@
 ---
-name: Custom issue template
+name: User Story Final Project
 about: Final Project user story template
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: User Story
-about: This template is for creating user stories
 title: ''
 labels: ''
 assignees: ''
